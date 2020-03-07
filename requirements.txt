@@ -1,0 +1,10 @@
+scrapy==1.8.0
+numpy==1.18.1
+flask==1.1.1
+pymongo==3.5.1
+Flask-Cors==3.0.8
+scrapy-splash==0.7.2
+Sastrawi==1.0.1
+nltk==3.4.5
+Flask-PyMongo==2.3.0
+bcrypt==3.1.7 
